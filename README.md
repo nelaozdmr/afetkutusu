@@ -104,9 +104,6 @@ afetkutusuu/
 4. Branch'inizi push edin (`git push origin feature/yeni-ozellik`)
 5. Pull Request oluşturun
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
