@@ -1,6 +1,8 @@
 # 🏠 Afet Kutusu - Afet Sonrası Yardım Organizasyonun Optimize Edilmesi
 
-Afet sonrası durumlarında ihtiyaçları ücretsiz kordineli bir şekilde karşılamak için tasarlanmış kapsamlı bir web uygulaması.
+Afet sonrası durumlarında ihtiyaçları ücretsiz koordineli bir şekilde karşılamak için tasarlanmış kapsamlı bir web uygulaması.
+
+> **Not:** Bu proje, afet mağdurlarının temel ihtiyaçlarını karşılamak amacıyla geliştirilmiş bir yardım organizasyon sistemidir.
 
 ## 🚀 Özellikler
 
