@@ -1,4 +1,4 @@
-# 🏠 Afet Kutusu - Aile Yönetim Sistemi
+# 🏠 Afet Kutusu - Afet Sonrası Yardım Organizasyonun Optimize Edilmesi
 
 Afet durumlarında ailelerin ihtiyaçlarını karşılamak için tasarlanmış kapsamlı bir web uygulaması.
 
