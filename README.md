@@ -114,9 +114,6 @@ afetkutusuu/
 - **GitHub:** [github.com/nelaozdmr]
 
 
-- Admin paneli
-- Aile üyesi yönetimi
-
 ---
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
