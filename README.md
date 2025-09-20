@@ -1,6 +1,6 @@
 # 🏠 Afet Kutusu - Afet Sonrası Yardım Organizasyonun Optimize Edilmesi
 
-Afet durumlarında ailelerin ihtiyaçlarını karşılamak için tasarlanmış kapsamlı bir web uygulaması.
+Afet sonrası durumlarında ihtiyaçları ücretsiz kordineli bir şekilde karşılamak için tasarlanmış kapsamlı bir web uygulaması.
 
 ## 🚀 Özellikler
 
@@ -104,22 +104,14 @@ afetkutusuu/
 4. Branch'inizi push edin (`git push origin feature/yeni-ozellik`)
 5. Pull Request oluşturun
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-- **Geliştirici:** [Adınız]
-- **E-posta:** [email@example.com]
-- **GitHub:** [github.com/kullaniciadi]
+- **Geliştirici:** [Nazife Ela Özdemir]
+- **E-posta:** [nazifeelao@gmail.com]
+- **GitHub:** [github.com/nelaozdmr]
 
-## 🔄 Güncellemeler
 
-### v1.0.0 (2024)
-- İlk sürüm
-- Temel kullanıcı yönetimi
-- Ürün katalogu
 - Admin paneli
 - Aile üyesi yönetimi
 
