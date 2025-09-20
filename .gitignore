@@ -1,0 +1,100 @@
+# Veritabanı bağlantı bilgileri
+db_config.php
+config.php
+
+# Log dosyaları
+*.log
+logs/
+error.log
+access.log
+
+# Geçici dosyalar
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Cache dosyaları
+cache/
+*.cache
+
+# Session dosyaları
+sessions/
+*.sess
+
+# Backup dosyaları
+*.bak
+*.backup
+backup/
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Composer
+vendor/
+composer.lock
+
+# Node.js (eğer kullanılıyorsa)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Test dosyaları
+test_*.php
+debug_*.php
+check_*.php
+*_test.php
+deneme.php
+quick_debug.php
+
+# Geliştirme dosyaları
+*.dev.php
+dev/
+development/
+
+# Yedek dosyalar
+*copy.php
+*backup.php
+panel-backup.php
+
+# Text dosyaları (veri dosyaları hariç)
+*.txt
+!Data/*.txt
+
+# SQL dosyaları (kurulum dosyaları hariç)
+*.sql
+!install.sql
+!database.sql
+
+# Yüklenen dosyalar (büyük dosyalar)
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+uploads/*.gif
+uploads/*.pdf
+uploads/*.doc
+uploads/*.docx
+!uploads/default-avatar.png
+
+# Çevre değişkenleri
+.env
+.env.local
+.env.production
+
+# Güvenlik
+*.key
+*.pem
+*.crt
+secrets/
+
+# Diğer
+*.zip
+*.rar
+*.tar.gz
