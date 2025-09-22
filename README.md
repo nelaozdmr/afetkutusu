@@ -3,7 +3,7 @@
 Afet sonrası durumlarında ihtiyaçları ücretsiz koordineli bir şekilde karşılamak için tasarlanmış kapsamlı bir web uygulaması.
 
 > **Not:** Bu proje, afet mağdurlarının temel ihtiyaçlarını karşılamak amacıyla geliştirilmiş bir yardım organizasyon sistemidir.
-
+>**** WEB SİTESİNİN TANITIM VİDEOSU:https://drive.google.com/file/d/1Ped3yisuywvig-65xbidAyjkjt-J-78G/view?usp=drive_web
 ## 🚀 Özellikler
 
 ### 👥 Kullanıcı Yönetimi
